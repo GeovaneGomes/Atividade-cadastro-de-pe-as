@@ -1,0 +1,5 @@
+1 - se a peça tiver mais que 100g, pode cadastrar
+
+2 - caso a lista de peças seja superior a 10, imprima uma mensagem informando não ter capacidade suficiente
+
+3 - Caso a peça tenha um nome com quantidade inferior a 3 char, informe uma mensagem de erro.
